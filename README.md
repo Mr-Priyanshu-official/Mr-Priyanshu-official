@@ -1,4 +1,4 @@
-![logo]([https://github.com/Mr-Priyanshu-official/Mr-Priyanshu-official/blob/main/20250507_173955.png](https://github.com/Mr-Priyanshu-official/Mr-Priyanshu-official/blob/main/ppppppppppppppppppp.png))
+![logo](https://github.com/Mr-Priyanshu-official/Mr-Priyanshu-official/blob/main/ppppppppppppppppppp.png)
 <h1 align="center">Hi 👋, I'm PRIYANSHU</h1>
 <h3 align="center">"Engineering the Future of Technology"</h3>
 
